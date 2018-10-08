@@ -10,33 +10,33 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Granada 2018"
-email: "contacto@gdggranada.com"
-description: "GDG DevFest Granada 2018. El punto de encuentro con tu comunidad local"
+title: "GDG DevFest Jaén 2018"
+email: "gdgjaen@gmail.com"
+description: "GDG DevFest Jaén 2018. El punto de encuentro con tu comunidad local"
 baseurl: ""
-url: "https://devfest.gdggranada.com"
+url: "https://devfest.gdgjaen.me"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
 siteVerification: ""
 
 # Organizer Info
-organizerName: "GDG Granada"
-organizerAlternateName: "Google Developer Group Granada"
-organizerDescription: "GDG Granada es una entidad sin ánimo de lucro creada con el objetivo de mejorar la comunidad de entusiastas tecnológicos y aumentar el conocimiento y las relaciones entre las personas que se dedican a esta área."
-organizerEmail: "contacto@gdgranada.com"
+organizerName: "GDG Jaén"
+organizerAlternateName: "GDG Jaén"
+organizerDescription: "GDG Jaén es una entidad sin ánimo de lucro creada con el objetivo de mejorar la comunidad de entusiastas tecnológicos y aumentar el conocimiento y las relaciones entre las personas que se dedican a esta área."
+organizerEmail: "gdgjaen@gmail.com
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://gdggranada.com"
+organizerLink: "http://gdgjaen.me"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, granada"
-twitterAccount: "@GDGGranada"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, jaen"
+twitterAccount: "@GDGJaen"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://t.co/2fSHWKyjkn"
+c4pUrl: "https://goo.gl/A8WWDC"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -47,19 +47,19 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Organizadores"}
 rightNavigationButtons:
- - {link: "https://www.meetup.com/es-ES/granadagdg/events/253173823/", text: "Registro"}
+ - {link: "https://www.meetup.com/es/GDG-Jaen/events/253163269/", text: "Registro"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest Granada"
-eventDate: "16 de noviembre"
-typeoutTextValues: '"", " 2018", " Season", " Granada"'
+heroTitle: "GDG DevFest Jaen"
+eventDate: "17 de noviembre"
+typeoutTextValues: '"", " 2018", " Season", " Jaen"'
 typeoutFallback: " Season"
 heroButtons:
- - {link: "https://www.meetup.com/es-ES/granadagdg/events/253173823/", text: "Registro"}
+ - {link: "https://www.meetup.com/es/GDG-Jaen/events/253163269/", text: "Registro"}
 
 # About Block
-aboutTitle: "Sobre GDG DevFest Granada"
+aboutTitle: "Sobre GDG DevFest Jaén"
 aboutBlock:
  - {title: "Ponentes", image: "conference.jpg", text: "Ponentes de primer nivel venidos desde toda España" }
  - {title: "Tecnología", image: "hackathon.jpg", text: "Ven y aprende con nosotros sobre las tecnologías más novedosas" }
@@ -67,10 +67,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "200", specialCharacter: "+", info: "asistentes", detail: "y tú tienes que ser uno de ellos"}
- - {count: "8", specialCharacter: "+", info: "hours", detail: "horas de tecnología"}
+ - {count: "450", specialCharacter: "+", info: "asistentes", detail: "y tú tienes que ser uno de ellos"}
+ - {count: "10", specialCharacter: "+", info: "hours", detail: "horas de tecnología"}
  - {count: "8", specialCharacter: "+", info: "ponentes", detail: "de primer nivel"}
- - {count: "2", specialCharacter: "", info: "tracks paralelos", detail: "poara que tengas dóndde elegir"}
+ - {count: "2", specialCharacter: "", info: "tracks paralelos", detail: "para que tengas donde elegir"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -83,19 +83,19 @@ rockstarSpeakersButtonText: "Saber más"
 
 # Location Block
 locationBlockTitle: "Localización"
-eventLocationName: ""
+eventLocationName: "Universidad de Jaén"
 eventLocationLink: ""
-eventStreetAddress: "Calle Periodista Daniel Saucedo Aranda, s/n"
-eventAddressLocality: "Granada"
-eventAddressLocalityRegion: "Granada"
-eventPostalCode: "18014"
+eventStreetAddress: "Campus Las Lagunillas, s/n, 23071 Jaén"
+eventAddressLocality: "Jaen"
+eventAddressLocalityRegion: "Jaen"
+eventPostalCode: "23780"
 eventAddressCountry: "España"
-eventStartTime: "2018-11-16T09:30"
-eventDoorTime: "09:15"
-eventEndTime: "2018-11-16T20:00"
-eventPlaceCoordinates: "37.1970867, -3.624686"
-mapCenterCoordinates: "37.1970867, -3.624686"
-mapMobileCenterCoordinates: "37.1970867, -3.624686"
+eventStartTime: "2018-11-17T10:00"
+eventDoorTime: "09:30"
+eventEndTime: "2018-11-17T20:00"
+eventPlaceCoordinates: "37.788385, -3.777133"
+mapCenterCoordinates: "37.788385, -3.777133"
+mapMobileCenterCoordinates: "37.788385, -3.777133"
 
 # Venue Block
 venueBlockTitle: "¿Dónde vamos a celebrar el evento?"
@@ -103,8 +103,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Escuela Técnica Superior de Ingenierías Informática y Telecomunicación de la UGR"
-venueFeatures: ["Calle Periodista Daniel Saucedo Aranda, s/n, 18014 Granada", "http://etsiit.ugr.es/"]
+venueTitle: "Edificio B4, Universidad de Jaén"
+venueFeatures: ["Campus Las Lagunillas, s/n, 23071 Jaén", "http://ujaen.es/"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -129,29 +129,29 @@ ticketsInfo: "El registro es obligatorio si quieres participar en todas nuestras
 ticketsOffers:
  -
   name: "Registro"
-  price: "0"
+  price: "3,5"
   priceCurrency: "EUROS"
-  ticketsNumber: "200"
+  ticketsNumber: "450"
   ribbon: ""
-  buyButtonLink: "https://www.meetup.com/es-ES/granadagdg/events/253173823/"
-  buyButtonText: "Registro"
+  buyButtonLink: "https://www.meetup.com/es/GDG-Jaen/events/253163269/"
+  buyButtonText: "Compra"
   ticketContentList: [""]
   validFrom: "2018-08-25T10:00"
   validThrough: "2018-11-1T00:00"
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/GDGGranada", icon: "twitter"}
+ - {link: "https://twitter.com/GDGJaen", icon: "twitter"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdggranada.com", text: "GDG Granada"}
+   - {link: "http://gdgjaen.me", text: "GDG Granada"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacto"
   links:
-   - {link: "mailto:contacto@gdggranada.com", text: "contacto@gdggranada.com"}
+   - {link: "mailto:gdgjaen@gmail.com", text: "gdgjaen@gmail.com"}
  -
   title: "FAQ"
   links:
