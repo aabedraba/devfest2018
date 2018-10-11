@@ -1,4 +1,6 @@
 - 
-  group: "Organizador principal"
+  group: ""
   elements: 
-    - {name: "GDG Granada", description: "GDG Granada", link: "http://gdggranada.com", imageUrl: "gdg.svg"}
+    - {name: "GDG Jaén", description: "GDG Jaén", link: "http://gdgjaen.me", imageUrl: "gdg_jaen.png"}
+    - {name: "Apryme", description: "Apryme", link: "https://apryme.es/", imageUrl: "apryme.png"}
+    - {name: "DelAl", description: "Delegación de Alumnos EPSJ", link: "https://twitter.com/delalepsuja", imageUrl: "delal.png"}

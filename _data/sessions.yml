@@ -23,32 +23,32 @@
   complexity: "Beginner"
 -
   id: 002
-  title: "One Flutter to rule them all"
-  description: "A punto de alcanzar su versión 1.0, Flutter está emergiendo como un candidato al trono de los SDK multiplataforma para iOS y Android. Por ahora, parece que ha encontrado su nicho en las consultoras que tienen entre manos proyectos efímeros o en fases iniciales. Sin embargo, la herramienta puede dar mucho más. En esta charla, discutiremos si puede tener sentido añadir Flutter a un proyecto existente de una de las dos plataformas (y si es posible); cogeremos un código Flutter para Android/iOS y lo desplegaremos en otros sistemas operativos como Chrome OS, Windows, Linux o MacOS; y hablaremos del sistema operativo donde Flutter es la forma nativa de hacer UI: Fuchsia. Todo esto en una charla con más código y menos slides. ¿Alguien dijo “efecto demo”? (edited)"
+  title: "Programas de becas de Google para estudiantes universitarios"
+  description: "En la charla Andreu Ibañez presenta el programa de becas Google Summer of Code para estudiantes universitarios y Google Code-in para pre universitarios. Andreu es organizador del GDG Lleida y mentor y administrator de los programas de google desde el 2011, habiendo becado directa e indirectamente a más de 50 alumnos por un importe de mas de 500.000 euros"
   subtype: presentation
   speakers: [2]
   language: es
   complexity: "Beginner"
 -
   id: 003
-  title: "Dialogflow: chateando con las máquinas o al menos intentándolo"
-  description: "Es posible chatear con una máquina y no acabar hasta las narices de sus estúpidas respuestas. En los últimos años se ha popularizado el uso de sistemas conversacionales automáticos o chatbots que nos permite mejorar la interacción con muchos servicios y productos o en algunos casos empeorarlos.
-                En esta charla exploraremos cual es el proceso para crear un chatbot, que cosas debemos tener en cuenta y que explicaremos cómo funciona dialogflow creando un sencillo chatbot para interactuar mediante voz con nuestro chatbot. Tal vez incluso veamos algo de inteligencia artificial en el proceso."
+  title: "TensorFlow para Javeros"
+  description: "TensorFlow ha conseguido democratizar de forma parcial la Inteligencia Artificial en el mundo del desarrollo software. Pero es real está democratización. Pues la realidad es que no, ya que la mayor parte de los algoritmos y ejemplos han sido desarrollados en Python y en C++. Pero que pasa con Java, el lenguaje en el que se programan las Apps en android. Si eres desarrollador Java y quieres saber cómo desarrollar tus algoritmos de Aprendizaje Automatico en Java con TensorFlow, no te vas a aburrir. 
+En esta charla describire cómo funciona TensorFlow por dentro. Veremos dónde está la magia y la realidad de este framework y porque funciona como funciona. A continuación describiré cómo desarrollar un sistema basado en Aprendizaje Automático utilizando TensorFlow en Java. "
   subtype: presentation
   speakers: [3]
   language: es
   complexity: "Beginner"
 -
   id: 004
-  title: "Kubernetes, Istio & Kiali"
-  description: "There are some open-source platforms for managing containerized workloads and services like Kubernetes, openshift ... But What is Istio? Istio helps reduce the complexity of these deployments, and eases the strain on your development teams. It is a completely open source service mesh that layers transparently onto existing distributed applications. And What are the microservices in my Istio service mesh doing ? Kiali is the answer for this question. Kiali provide the observability for the  Istio service mesh."
+  title: "OpenSource is Rocking"
+  description: "Charla acerca de OpenSource, como se puede conseguir trabajo, buenas practicas y porque dedicarle tiempo."
   subtype: presentation
   speakers: [4]
   language: es
   complexity: "Beginner"
 -
   id: 005
-  title: "kotlin para androides"
+  title: "Kotlin para androides"
   description: "Llevamos ya más de un año con Kotlin como lenguaje oficial para Android, y en el camino hemos aprendido mucho sobre como hacer las cosas mejor. En esta charla veremos como cambia nuestro código y exprimiremos la potencia del lenguaje, explicando propiedades que van a hacer nuestra vida más sencilla."
   subtype: presentation
   speakers: [5]
@@ -56,19 +56,12 @@
   complexity: "Beginner"
 -
   id: 006
-  title: "#AbadIA: Como creamos una AI para jugar y resolver La Abadía del Crimen"
-  description: "El día que creamos una AI que jugara a La Abadía del Crimen
+  title: "The code is darks and full of errors: Code Review edition"
+  description: "**_The code is dark and full of errors: Code Review edition_** es la adaptación al mundo de los Code Reviews de la mítica frase  **_The night is dark and full of terrors_** de _Game of Thrones_, quienes hayamos trabajado con Code Reviews podemos vernos reflejados en ese lema, pero acaso ¿es malo?
 
-                ¿Conoces la Abadía del Crimen?
+Los Code Reviews ya están interiorizados en muchos equipos como una herramienta para mejorar la calidad de su código, aunque en muchos de ellos esto provoca más incomodidad que beneficios, más conflictos internos que consensos, más pérdida de tiempo que resultados, de estas premisas nace esta historia donde contar los secretos de un buen y un mal Code Review.
 
-                La abadía es un juego de 8-bit (para spectrum y CPC) que se convirtió en el primer juego RPG en 3D (2.5D) en 1987.
-                Este juego es una maravilla desde un punto de vista tecnológico:  en solo menos de 120k es capaz de almacenar el sonido, las imágenes, toda la lógica del programa y los datos .
-
-                ¿Conseguiste terminar el juego sin ayuda?
-
-                No conozco a nadie que se lo haya pasado  sin ayuda. Es uno de los  juegos mas complicados que se han desarrollado,  como unas 1000x comparado con la venganza de montezuma de Atari. Más o menos (5**7000x)
-
-                En la charla contaremos como diseñamos y construimos una AI capaz de jugar solo y aprender a completar el juego.
+En esta charla se hablará de cómo Targaryen Consulting, una consultora de los Siete Reinos, ágil y amante de las buenas prácticas, fue víctima de una mala implementación de Code Reviews provocando un gran enfrentamiento entre Daenerys y Jon Snow, dos grandes desarrolladores de la empresa, y cómo a través de un amplio repaso de qué es un Code Review, qué partes tiene, cómo trabajar con él y sus buenas prácticas llegaron a resolver sus conflictos... O no.
                 "
   subtype: presentation
   speakers: [6]
@@ -76,16 +69,16 @@
   complexity: "Beginner"
 -
   id: 007
-  title: "Transformando los datos en Google Cloud Platform"
-  description: "Como transformar datos en Google Cloud"
+  title: "Zero to App: Introduction to Building Apps for the Google Assistant"
+  description: "Actions on Google are an exciting way to interact with your users through the Google Assistant. They provide a conversational interface between you and your user, and they are super simple to build with Dialogflow. Not sure how to start developing your very first Action on Google? In this talk, we’ll cover everything from understanding the business use case and the high level voice user interface (VUI) design best practices to implementation, testing, and, finally, publishing your app. By the end of this session, you should have a better understanding of the Assistant service ecosystem and how to get started."
   subtype: presentation
   speakers: [7]
-  language: es
+  language: en
   complexity: "Beginner"
 -
   id: 008
-  title: "Integrating your IoT projects with Actions On Google"
-  description: "So you've put together a couple of IoT projects, and it'd be pretty cool if you were able to control them with your voice, right? In this deep dive we'll go through all the pieces you'll need to integrate your nifty gadgets with the Google Assistant. We'll showcase a neat demo project: a cute Lego house that's controlled with your voice and the new Lenovo smart display."
+  title: "TBD"
+  description: "TBD"
   subtype: presentation
   speakers: [8]
   language: es
@@ -93,18 +86,138 @@
 
 -
   id: 009
-  title: "Keynote"
-  description: ""
+  title: "TBD"
+  description: "TBD"
   subtype: presentation
-  speakers: [4,9]
+  speakers: [9]
   language: es
   complexity: "Beginner"
 
 -
   id: 010
+  title: "An Arrow to the Kotlin"
+  description: "Kotlin ha sido una revolución en los últimos dos años, especialmente en el mundo de Android que ha venido usando versiones obsoletas de Java.
+
+El salto tecnológico ha sido tan alto; que ahora podemos añadir un poco de Programación Funcional a nuestro código.
+
+Esto se puede llevar a cabo mediante el proyecto Arrow, una librería de PF para Kotlin (y retrocompatible con Java)
+
+Pero en lugar de dar una introducción teórica a los principios de la PF, vamos a presentar como podemos complementar nuestra tradicional OOP con patrones y estructuras que proporciona Arrow y como al aplicarlas conseguimos código mas conciso y robusto.
+
+De este modo, podemos poner un pequeño pie en el mundo de la PF y expandir el número de herramientas que tenemos a nuestra disposición."
+  subtype: presentation
+  speakers: [10]
+  language: es
+  complexity: "Beginner"
+
+-
+  id: 011
+  title: "Go and React "
+  description: "En este taller crearemos una aplicación backend en Go y un FrontEnd en React, paso por paso aprendiendo lo que nos ofrece estos dos maravillosos lenguajes."
+  subtype: presentation
+  speakers: [4]
+  language: es
+  complexity: "Beginner"
+
+-
+  id: 012
+  title: "TBD"
+  description: "TBD"
+  subtype: presentation
+  speakers: [404]
+  language: es
+  complexity: "Beginner"
+
+-
+  id: 013
+  title: "To Be Confirmed"
+  description: ""
+  subtype: presentation
+  speakers: [404]
+  language: es
+  complexity: "Beginner"
+
+-
+  id: 014
+  title: "To Be Confirmed"
+  description: ""
+  subtype: presentation
+  speakers: [404]
+  language: es
+  complexity: "Beginner"
+
+-
+  id: 101
+  title: "Taller 1 - TBC"
+  description: ""
+  subtype: presentation
+  speakers: [404]
+  language: es
+  complexity: "Beginner"
+
+-
+  id: 102
+  title: "Taller 2 - TBC"
+  description: ""
+  subtype: presentation
+  speakers: [404]
+  language: es
+  complexity: "Beginner"
+
+-
+  id: 103
+  title: "Taller 3 - TBC"
+  description: ""
+  subtype: presentation
+  speakers: [404]
+  language: es
+  complexity: "Beginner"
+
+-
+  id: 104
+  title: "Taller 4 - TBC"
+  description: ""
+  subtype: presentation
+  speakers: [404]
+  language: es
+  complexity: "Beginner"
+
+
+
+-
+  id: 201
+  title: "Keynote"
+  description: ""
+  service: true
+  speakers: [404]
+  language: es
+
+-
+  id: 202
+  title: "Lunch"
+  description: ""
+  service: true
+
+-
+  id: 203
+  title: "Coffee break"
+  place: "Comedor C3"
+  service: true
+
+-
+  id: 204
   title: "End Keynote"
   description: ""
   subtype: presentation
-  speakers: [4,9]
+  speakers: [404]
   language: es
-  complexity: "Beginner"
+  service: true
+
+-
+  id: 404
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [404]
+  language: 
+  complexity: ""

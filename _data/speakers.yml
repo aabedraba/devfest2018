@@ -7,29 +7,33 @@
   bio: "Frontend developer en IBM Research. En busca del asistente de voz que me soluciione la vida, defensor de los web components a la vez que crítico con ellos. Ayudo en lo que puede en distintas comunidades como Google developer Groups y Open Source Weekends. Profesor en Fictizía y acerca a CollisionsProjects a la comunidad."
   thumbnailUrl: borjagodoy.jpeg
   rockstar: false
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: ""}
   social:
     - {name: "twitter", link: "https://twitter.com/gody11"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/borja-godoy/"}
 -
    id: 2
-   name: "Ruben"
-   surname: "Serrano"
-   company: "Wallapop"
-   title: "Senior Android Engineer"
-   bio: "Programador Android vocacional, actualmente trabaja como Senior Android Engineer en Wallapop, y es uno de los organizadores del GDG Barcelona. Anteriormente trabajó como Lead Android Developer en Redbooth, y ha sido profesor en la Universidad Autónoma de Barcelona. En su tiempo libre aprende Flutter y Fuchsia, pero sobretodo, a ser padre."
-   thumbnailUrl: rubenserrano.jpeg
+   name: "Andreu"
+   surname: "Ibáñez"
+   company: "Parque Científico de Lleida"
+   title: "Coordinador Laboratorios TIC"
+   bio: "TBD."
+   thumbnailUrl: andreu.jpeg
    rockstar: true
+   ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: ""}
    social:
-     - {name: "linkedin", link: "https://www.linkedin.com/in/rubenserranonunez/"}
+     - {name: "linkedin", link: "https://www.linkedin.com/in/andreuibanez/"}
 -
    id: 3
-   name: "Moises"
-   surname: "Martinez"
+   name: "Moisés"
+   surname: "Martínez"
    company: "King College of London "
    title: "Research"
    bio: "I'm Moises, a PhD in Artificial Intelligence and robotics at King's College London. I LOVE Machine Learning, robots and AI in general. I am always looking for new challenges. "
    thumbnailUrl: moises.jpg
-   rockstar: false
+   rockstar: true
    social:
       - {name: "linkedin", link: "https://www.linkedin.com/in/momartinm/"}
 -
@@ -43,7 +47,7 @@
    rockstar: true
    ribbon:
      - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-     - {abbr: "GDD", title: "Google Developer Group", url: ""}
+     - {abbr: "GDG", title: "Google Developer Group", url: ""}
    social:
      - {name: "linkedin", link: "https://www.linkedin.com/in/gutierrezjuanesalberto/"}
 -
@@ -61,40 +65,42 @@
      - {name: "linkedin", link: "https://www.linkedin.com/in/jorge-juan-barroso-carmona-a3aa225/"}
 -
    id: 6
-   name: "Juan Tomas"
+   name: "Nicolás Patarino"
    surname: ""
-   company: "Sngular"
-   title: "Chief Envisioner Officer"
-   bio: "Chief Envisioner Officer at Sngular, Google Developer Expert for cloud, Author the Spanish free software book 'La Pastilla Roja'         Organizer of Machine Learning Spain and GDG cloud Madrid meetups.          Former President of Hispalinux (Spanish Linux Local User Group) ."
-   thumbnailUrl: juantomas.jpg
+   company: "Tuenti"
+   title: "Software Engineer"
+   bio: "TBD."
+   thumbnailUrl: nicolas.jpg
    rockstar: false
-   ribbon:
-     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
    social:
-     - {name: "twitter", link: "https://plus.google.com/juantomas/"}
-     - {name: "linkedin", link: "https://www.linkedin.com/in/juantomasgarcia/"}
+     - {name: "twitter", link: "https://plus.google.com/npatarino/"}
+     - {name: "linkedin", link: "https://www.linkedin.com/in/npatarino/"}
 -
    id: 7
-   name: "Iván"
-   surname: "Fernández Perea"
-   company: "BBVA Next Technologies"
-   title: "Arquitecto Cloud & Big Data"
-   bio: "I am a Cloud & Big Data software engineer who has worked with technologies such as Hadoop, Spark or HBase on a Cloud environment (Amazon Web Services, Google Cloud, Microsoft Azure and IBM Softlayer). I have experience with Big Data related technologies like Flume, Kafka or Flink among others using Cloudera and Hortonworks distributions."
-   thumbnailUrl: ivan.jpg
+   name: "Aygul"
+   surname: "Zagidullina"
+   company: "MotaWord"
+   title: "Digital Marketer"
+   bio: TBD."
+   thumbnailUrl: aygul.jpeg
    rockstar: true
+   ribbon:
+     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+     - {abbr: "GDG", title: "Google Developer Group", url: ""}
    social:
-      - {name: "linkedin", link: "https://www.linkedin.com/in/ivanfernandezperea/"}
+      - {name: "twitter", link: "https://twitter.com/aygul/"}
+      - {name: "linkedin", link: "http://www.linkedin.com/in/aygulzagidullina"}
 -
    id: 8
-   name: "Orestes"
-   surname: "Cararcedo"
-   company: "Lighthorse Consulting"
-   title: "Software Engineer "
-   bio: "Full-stack software developer living in Galicia, northwest Spain. Consultant, mentor, speaker and community organiser. Co-founder at Lighthorse Consulting"
-   thumbnailUrl: orestes.jpeg
+   name: "Rocío"
+   surname: "Ortega"
+   company: "Wallapop"
+   title: "Android Developer"
+   bio: "TBD"
+   thumbnailUrl: rocio.jpeg
    rockstar: false
    social:
-      - {name: "linkedin", link: "https://www.linkedin.com/in/orestesca/"}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/rocio-ortega-priego-5b0b5811/"}
 
 -
    id: 9
@@ -112,5 +118,30 @@
          Amante del software libre."
    thumbnailUrl: israel.jpeg
    rockstar: false
+   ribbon:
+     - {abbr: "GDG", title: "Google Developer Group", url: ""}
    social:
       - {name: "linkedin", link: "https://www.linkedin.com/in/iblancasa/"}
+
+-
+   id: 10
+   name: "Saúl"
+   surname: "Díaz"
+   company: "Chicismo"
+   title: "Android Engineer"
+   bio: "TBD"
+   thumbnailUrl: saul.png
+   rockstar: false
+   social:
+      - {name: "twitter", link: "https://twitter.com/Sefford/"}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/sefford/"}
+
+-
+   id: 404
+   name: "Confirming soon"
+   surname: ""
+   company: ""
+   title: ""
+   bio: "TBD"
+   thumbnailUrl: person-placeholder.jpg
+   rockstar: false

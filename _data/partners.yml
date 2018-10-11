@@ -1,9 +1,7 @@
 -
-  group: "Patrocinador principal"
+  group: ""
   elements:
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
--
-  group: "Lugar de celebración"
-  elements:
-    - {name: "Universidad de Granada", description: "Universidad de Granada", link: "https://ugr.es", imageUrl: "ugr.svg"}
-    - {name: "ETSIIT UGR", description: "ETSTIIT UGR", link: "https://etsiit.ugr.es", imageUrl: "etsiit.png"}
+    - {name: "Google", description: "Google", link: "https://www.google.com/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "Dapda", description: "Dapda", link: "https://www.dapda.com", imageUrl: "dapda.png"}
+    - {name: "EPSJ", description: "Escuela Politécnica Superior de Jaén", link: "http://eps.ujaen.es/", imageUrl: "epsj.png"}
+    - {name: "UJA", description: "Universidad de Jaén", link: "https://uja.es", imageUrl: "ujaen.png"}
